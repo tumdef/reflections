@@ -22,6 +22,8 @@ Experimental version, other languges, new mode, easy to checkout.
 
 How do the diagrams help you visualize the branch structure?
 
+Makes it easy to visualize how many branch we have, look at parent node, and help understanding the flow
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
