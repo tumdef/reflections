@@ -27,5 +27,7 @@ Makes it easy to visualize how many branch we have, look at parent node, and hel
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merge two branches into one and add all the changes.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
