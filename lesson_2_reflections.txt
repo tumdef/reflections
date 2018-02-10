@@ -31,3 +31,7 @@ Merge two branches into one and add all the changes.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Auto merge is time-saving but you cannot see what code changes before merge
+Manual merge let us decided what code we want to keep or editing before merge but can cause a lot of time
+if the merge are not conflict.
