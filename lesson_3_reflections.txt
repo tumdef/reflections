@@ -5,3 +5,9 @@ When you want to collaborate a work with other people and want to make your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Maybe you don't want the files in remote repo and want to test or experiment in your local repo.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+You use forks when you want to contribute someone work that you don't have permission on so you just forks repository to your own Github.
+Clones use when you want to copy thr repository to your local repository including form Github to local or local to local.
+Branches is the seperate version of the files use when eg. you want anather mode or test experimental, debugging version.
