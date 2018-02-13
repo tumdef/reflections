@@ -15,3 +15,8 @@ Branches is the seperate version of the files use when eg. you want anather mode
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can keep your master branch and continue working on, while you have the remote branch to keep track commit on Github or by other people and you can merge change whenever you want.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using files transfer like Google Drive or just use Facebook or maybe by usb drive.
+Git and Github would be easier and not using it would be harder since git is a version control.
