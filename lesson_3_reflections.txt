@@ -20,3 +20,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Using files transfer like Google Drive or just use Facebook or maybe by usb drive.
 Git and Github would be easier and not using it would be harder since git is a version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to test something that I didn't sure it will break the code like trying an experimental and don't want to mess the master branch up or you callaborate with other people
+then use seperate branch is good too. Benefit from make changes directly in master would be fast than doing a seperate branch since you can use pull and push rightaway
+but it will have some problems.
